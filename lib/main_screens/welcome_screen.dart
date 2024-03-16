@@ -224,8 +224,8 @@ class _WelcomeScreenState extends State<WelcomeScreen> with SingleTickerProvider
                     ),
                     CreatedAccountsLogin(
                       label: 'Guest',
-                      onpressed: (){
-                        // await FirebaseAuth.instance.signInAnonymously();
+                      onpressed: () async{
+                        await FirebaseAuth.instance.signInAnonymously();
                       },
                       child:const Icon(
                         Icons.person,

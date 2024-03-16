@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "188629052965",
+    "project_id": "multistore-70eee",
+    "storage_bucket": "multistore-70eee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188629052965:android:4ad9707b7211c7efd099cc",
+        "android_client_info": {
+          "package_name": "com.example.newsdk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAu1N7CuvOrpzwx70m2CtHB4rp5SMEzR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
